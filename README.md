@@ -53,7 +53,10 @@ Illustrations were generated with Midjourney and adapted into the product experi
 
 [Play the Bechdel Movie Challenge](YOUR-LIVE-LINK)
 
-_Add screenshot here._
+<img width="1860" height="1260" alt="2" src="https://github.com/user-attachments/assets/5783328f-d258-47f1-9bf5-d43f9c7bd2ce" />
+<img width="878" height="841" alt="bechdel-rating-4" src="https://github.com/user-attachments/assets/08630a32-fb36-4122-b795-de1dcccc8263" />
+<img width="1042" height="684" alt="bechdel-challenge-screenshot" src="https://github.com/user-attachments/assets/f97a9d1f-c524-43fe-955c-8b29c993458c" />
+
 
 ## Notes
 
